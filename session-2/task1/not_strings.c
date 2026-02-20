@@ -14,3 +14,5 @@ int main( void ) {
 
     return 0;
 }
+
+//string has a hidden terminator (this is the extra character that's being counted)
